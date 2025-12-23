@@ -1,9 +1,3 @@
-Perfect 👍
-Here’s an **updated GitHub-ready README.md**, aligned **exactly with your project structure** and package naming (`com.jwt`).
-You can paste this directly into GitHub.
-
----
-
 # 🔐 JWT Authentication Service
 
 A **JWT-based Authentication and Authorization backend** built using **Spring Boot**.
